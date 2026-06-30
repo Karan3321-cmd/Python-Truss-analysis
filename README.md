@@ -1,4 +1,4 @@
-# 2D Truss Analysis — Direct Stiffness Method
+# 2D Truss Analysis - Direct Stiffness Method
 
 
 
