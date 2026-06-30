@@ -11,9 +11,9 @@ structural analysis software (SAP2000, ABAQUS, ANSYS, etc.), which i have shown 
 Given a set of nodes, members, the material, applied loads and supports, the code
 calculates:
 
-* **Nodal displacements** — how far each joint moves under load
-* **Support reactions** — the forces the supports must provide for equilibrium
-* **Member axial forces, stresses and strains** — whether each member is in tension, compression, or carries zero force
+* **Nodal displacements** - how far each joint moves under load
+* **Support reactions** - the forces the supports must provide for equilibrium
+* **Member axial forces, stresses and strains** - whether each member is in tension, compression, or carries zero force
 
 
 
